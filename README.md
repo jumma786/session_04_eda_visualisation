@@ -38,7 +38,7 @@ Use EDA to generate evidence-based modelling hypotheses for predicting `complete
 
 | # | Chart | Question it answers |
 |---|---|---|
-| 1 | [Assessment score distribution](charts/distribution_assessment_score.png) | Are assessment scores separated by completion status? |
+| 1 | [Assessment score distribution]([charts/distribution_assessment_score.png](https://github.com/jumma786/session_04_eda_visualisation/blob/main/chart/distribution_assessment_score.png)) | Are assessment scores separated by completion status? |
 | 2 | [Completion rate by training mode](charts/completion_by_training_mode.png) | Does delivery format affect completion? |
 | 3 | [Correlation heatmap](charts/correlation_heatmap.png) | Which numeric features move together, and which correlate with the target? |
 | 4 | [Engagement by completion status](charts/engagement_vs_completion.png) | Is engagement different for completers vs non-completers? |
