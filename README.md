@@ -34,17 +34,19 @@ Use EDA to generate evidence-based modelling hypotheses for predicting `complete
 - **Feature likely useful:** a derived `high_friction_flag` (`support_tickets_last_30d >= 3`) — converts the non-linear pattern into a clean binary signal.
 - **Potential leakage risk:** `productivity_gain_estimate_pct` — has the highest correlation with the target (0.50), but productivity *gain* can only be measured *after* training. The same caution applies to `assessment_score` and `satisfaction_score` if they are recorded post-course.
 
+
 # Session 04 — Exploratory Data Analysis and Visualisation
 
 ## Charts and Business Questions
 
 | # | Chart | Question it answers |
 |---|---|---|
-| 1 | [Assessment score distribution](charts/distribution_assessment_score.png) | Are assessment scores separated by completion status? |
-| 2 | [Completion rate by training mode](charts/completion_by_training_mode.png) | Does delivery format affect completion? |
-| 3 | [Correlation heatmap](charts/correlation_heatmap.png) | Which numeric features move together, and which correlate with the target? |
-| 4 | [Engagement by completion status](charts/engagement_vs_completion.png) | Is engagement different for completers vs non-completers? |
-| 5 | [Completion rate by department](charts/stakeholder_summary_chart.png) | Where should a learning manager focus intervention? |
+| 1 | [Assessment Score Distribution](https://github.com/jumma786/session_04_eda_visualisation/blob/main/chart/distribution_assessment_score.png) | Are assessment scores separated by completion status? |
+| 2 | [Completion Rate by Training Mode](https://github.com/jumma786/session_04_eda_visualisation/blob/main/chart/completion_by_training_mode.png) | Does delivery format affect completion? |
+| 3 | [Correlation Heatmap](https://github.com/jumma786/session_04_eda_visualisation/blob/main/chart/correlation_heatmap.png) | Which numeric features move together, and which correlate with the target? |
+| 4 | [Engagement by Completion Status](https://github.com/jumma786/session_04_eda_visualisation/blob/main/chart/engagement_vs_completion.png) | Is engagement different for completers vs non-completers? |
+| 5 | [Completion Rate by Department](https://github.com/jumma786/session_04_eda_visualisation/blob/main/chart/stakeholder_summary_chart.png) | Where should a learning manager focus intervention? |
+
 
 ---
 
