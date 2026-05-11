@@ -44,7 +44,7 @@ Use EDA to generate evidence-based modelling hypotheses for predicting `complete
 | 4 | [Engagement by completion status](charts/engagement_vs_completion.png) | Is engagement different for completers vs non-completers? |
 | 5 | [Completion rate by department](charts/stakeholder_summary_chart.png) | Where should a learning manager focus intervention? |
 
-The full 300-word data story is in [`reports/five_plot_insight_report.md`](reports/five_plot_insight_report.md).
+The full 300-word data story is in [[`reports/five_plot_insight_report.md`](reports/five_plot_insight_report.md).](https://github.com/jumma786/session_04_eda_visualisation/blob/main/report/five_plot_insight_report.md)
 
 ## Repository layout
 
